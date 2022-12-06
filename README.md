@@ -5,7 +5,7 @@ CLI to convert LF (Unix / Linux) to CRLF (M$ Win).
 # NOTICE
 
 This is a supplement to node-crlf2lf library.
-all code is based on node-crlf2lf.
+All code is based on node-crlf2lf.
 
 [node-crlf2lf](https://github.com/XadillaX/node-crlf2lf)
 
