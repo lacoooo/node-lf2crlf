@@ -1,0 +1,31 @@
+{
+  "name": "lf2crlf",
+  "version": "1.0.0",
+  "description": "CLI to convert LF (Unix / Linux) to CRLF (M$ Win).",
+  "main": "lib/lf2crlf.js",
+  "bin": {
+    "lf2crlf": "bin/lf2crlf.js"
+  },
+  "dependencies": {
+    "nomnom": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lacoooo/node-lf2crlf.git"
+  },
+  "keywords": [
+    "CRLF",
+    "LF",
+    "LF2CRLF"
+  ],
+  "author": "lacoooo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lacoooo/node-lf2crlf/issues"
+  },
+  "homepage": "https://github.com/lacoooo/node-lf2crlf"
+}
