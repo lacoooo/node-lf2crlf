@@ -1,4 +1,4 @@
-# CRLF TO LF
+# LF TO CRLF
 
 CLI to convert LF (Unix / Linux) to CRLF (M$ Win).
 

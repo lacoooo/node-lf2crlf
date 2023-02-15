@@ -1,6 +1,6 @@
 {
   "name": "lf2crlf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI to convert LF (Unix / Linux) to CRLF (M$ Win).",
   "main": "lib/lf2crlf.js",
   "bin": {
